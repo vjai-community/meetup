@@ -44,7 +44,8 @@ belongs to the objects. In this seminar, we will discuss about Mask-RCNN, one of
   https://arxiv.org/abs/1311.2524
 5. J. Long, E. Shelhamer, and T. Darrell. Fully convolutional networks for semantic segmentation. In CVPR, 2015.
   https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf
-* Other articles
+
+### Other articles
 1. From R-CNN to Mask R-CNN
   https://medium.com/@umerfarooq_26378/from-r-cnn-to-mask-r-cnn-d6367b196cfd
 2. Faster R-CNN: Down the rabbit hole of modern object detection (Excellent article explaining insights into Faster-RCNN)
@@ -62,7 +63,7 @@ applications in computational molecular biology, in data compression, and in
 other areas of artificial intelligence and pattern recognition. In this session,
 we are going to look at the question "what are Hidden Markov models?"
  and play around with this in some real life example.
-• Ref to:
+### Ref to:
 - PRML book chapter 13
-• Other materials:
+### Other materials:
 An introduction to Hidden Markov Models and Bayesian Networks (http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf)
