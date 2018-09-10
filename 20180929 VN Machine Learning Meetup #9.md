@@ -18,7 +18,6 @@ Thêm nữa là việc vào toà nhà không dễ dàng nên các bạn tính to
 
 Hẹn gặp lại cả nhà vào buổi sắp tới!
 
-
 Nội dung chương trình:
 ---
 
