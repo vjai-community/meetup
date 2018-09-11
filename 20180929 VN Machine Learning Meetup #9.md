@@ -2,14 +2,14 @@ Chào cả nhà,
 
 Meetup tháng 9 lần này sẽ là 2 bài nói về Mask-RCNN và Hidden Markov model. Trong khi Mask-RCNN là thuật toán gần đây do Facebook AI Research phát triển để giải quyết bài toán Instance Segmentation trong Computer Vision thì Hidden Markov model lại là 1 mô hình học máy thống kê cổ điển nhưng đã và đang được ứng dụng rất nhiều trong thực tiễn. Xin mời cả nhà đến tham dự và thảo luận để hiểu sâu thêm về 2 thuật toán rất hay này.
 
-* Thời gian: 14h~18h thứ 7 29/9/2018 (mở cửa đón khách 13h40 ~ 13h55)
+* Thời gian: 14h~18h thứ 7 - 29/9/2018 (mở cửa đón khách 13h40 ~ 13h55)
 * Địa điểm: Microsoft Japan office tầng 30 <br>
 108-0075 東京都港区港南 2-16-3 品川グランドセントラルタワー <br>
 https://www.microsoft.com/ja-jp/mscorp/branch/sgt.aspx
 
 Hướng dẫn: từ ga Shinagawa đi theo skywalker là đến chỗ reception (tầng 2). Tại đây bạn sẽ lấy vé vào và lên tầng 30.
 
-Chú ý vì vấn đề an ninh của toà nhà là yêu cầu đăng ký trước thông tin họ tên và email nên bạn nào tham gia xin vui lòng điền thông tin theo form dưới đây. Hạn cuối đăng ký là **23:59 thứ 2 24/9/2018**.
+Chú ý vì vấn đề an ninh của toà nhà là yêu cầu đăng ký trước thông tin họ tên và email nên bạn nào tham gia xin vui lòng điền thông tin theo form dưới đây. Hạn cuối đăng ký là **23:59 thứ 2 - 24/9/2018**.
 
 https://goo.gl/forms/IjkUdmR39LOAsRwe2
 
