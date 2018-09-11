@@ -57,12 +57,12 @@ belongs to the objects. In this seminar, we will discuss about Mask-RCNN, one of
 khanhtc
 ### Title: HMM at a glance
 ### Description: :
-Hidden Markov models ares ubiquitous tool for modelling time series data.
+Hidden Markov Models are ubiquitous tool for modelling time series data.
 They are used in almost all current speech recognition systems, in numerous
 applications in computational molecular biology, in data compression, and in
 other areas of artificial intelligence and pattern recognition. In this session,
-we are going to look at the question "what are Hidden Markov models?"
- and play around with this in some real life example.
+we are going to look at the question "what are Hidden Markov Models?"
+ and play around with this in some real life examples.
 ### Ref to:
 - PRML book chapter 13
 ### Other materials:
