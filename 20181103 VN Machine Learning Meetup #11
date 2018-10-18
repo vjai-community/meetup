@@ -3,7 +3,7 @@
 Chào cả nhà, đến với Meetup #11, chúng ta sẽ được gặp gỡ 2 khách mời mang đến cho chúng ta 2 bài nói trong lĩnh vực Reinforcement Learning và Computer Vision.
 
 * Thời gian: 14h~18h thứ 7 - 3/11/2018 (mở cửa đón khách 13h40 ~ 13h55)
-* Địa điểm: Google Japan <br>
+* Địa điểm: Google Japan Inc. <br>
 〒106-6126 東京都, 港区, 六本木, 6-10-1 六本木ヒルズ森タワー <br>
 
 Hướng dẫn: Tập trung tại tầng 1 tòa nhà Mori Tower rồi cùng checkin và lên văn phòng
@@ -12,7 +12,7 @@ Chú ý vì vấn đề an ninh của toà nhà là yêu cầu đăng ký trư�
 
 https://goo.gl/forms/CLYdzD9O5YNUie9V2
 
-Với mục đích tổ chức meetup tại 1 số office của các bạn trong hội, lần này tổ chức tại Google và phòng chỉ có thể chứa 25 người nên nếu số người đăng ký nhiều hơn, ban tổ chức sẽ áp dụng hình thức Lottery (như đã thông báo trên facebook group).
+Lần này tổ chức tại Google và phòng chỉ có thể chứa 25 người nên nếu số người đăng ký nhiều hơn, ban tổ chức sẽ áp dụng hình thức Lottery (như đã thông báo trên facebook group).
 Link thông báo trên Facebook:
 https://www.facebook.com/groups/1332064783547219/permalink/1961572643929760/
 
@@ -39,7 +39,7 @@ This talk by no means can cover all aspects of this vast topic, but hopefully wi
 ### Speaker:
 Phan Doãn Phúc (FPT Japan Holdings Co., Ltd.)
 ### Title: Triplet Loss – the Good the Bad and the Ugly
-### Abstract: :
+### Abstract:
 Triplet Loss - born in 2015 - successfully solved "Face Recognition" Task, a classical problem in Computer Vision that used to cost a lot of researchers' tears and sweat. Since then, there is no other big progress for this Loss and it seems to be no longer a hot topic in DNN these days
 From the view-point of an engineer, I found it very useful to solve many tasks in production level. So the main point of my talk is to 
 (1) Introduce this method to the listeners (just some basic concepts)
