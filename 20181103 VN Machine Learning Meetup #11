@@ -29,7 +29,7 @@ Dương Nguyễn (Google Japan Inc.)
 Policy Gradients (PG) is a powerful approach for modern model-free reinforcement learning. In this talk, we discuss various PG algorithms, from the vanilla PG to actor-critic style PG to some recent state-of-the-art methods such as TRPO/PPO. Along the way, we try to understand their motivation, technical details and possible future works.
 This talk by no means can cover all aspects of this vast topic, but hopefully will provide enough basic knowledge for aspiring audience to dive into latest PG research.
 ### References:
-1. Chapter 13 from "Reinforcment Learning, An introduction" by prof. Richard S. Sutton
+1. Chapter 13 from "Reinforcement Learning, An introduction" by prof. Richard S. Sutton
   https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view
 2. A few papers about TRPO or below blog:
    https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-part-ii-trpo-ppo-87f2c5919bb9
