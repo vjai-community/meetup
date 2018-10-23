@@ -21,14 +21,17 @@ Chương trình dự kiến:
 14h05~14h35:
 Đỗ Minh Hải - [ICML] Learning Longer-term Dependencies in RNNs with Auxiliary Losses
 http://proceedings.mlr.press/v80/trinh18a/trinh18a.pdf
+Slide: https://dominhhai.github.io/vi/talk/paper-longer-term-rnn
 
 14h35~15h05:
 Phạm Quang Khang - [CVPR] MobileNetV2: Inverted Residuals and Linear Bottlenecks
 http://openaccess.thecvf.com/content_cvpr_2018/papers/Sandler_MobileNetV2_Inverted_Residuals_CVPR_2018_paper.pdf
+Slide: https://www.slideshare.net/KhangPham3/cvpr-2018-paper-reading-mobilenet-v2
 
 15h05~15h35:
 Trần Công Khanh - [ACL] Learning to Control the Specificity in Neural Response Generation
 http://aclweb.org/anthology/P18-1102
+Slide: https://slides.com/khanhtc/deck#/
 
 ---
 15h35~15h50: nghỉ giải lao
@@ -37,10 +40,12 @@ http://aclweb.org/anthology/P18-1102
 15h50~16h20:
 Nguyễn Tuấn Dương - [ICML] Fixing a broken ELBO https://arxiv.org/abs/1711.00464
 hoặc Concept activation vector https://arxiv.org/abs/1711.11279
+Slide: https://ntduong.github.io/tcav-fest-18
 
 16h20~16h50:
 Nguyễn Đạt - [ACL] Simple and Effective Multi-Paragraph Reading Comprehension
 http://aclweb.org/anthology/P18-1078
+Slide: https://www.slideshare.net/hitheone/vjai-paper-reading201808acl18simpleandeffective-multiparagraph-reading-comprehension
 
 ---
 16h50~17h: nghỉ giải lao
@@ -52,5 +57,6 @@ http://proceedings.mlr.press/v80/greydanus18a.html
 
 17h30~18h:
 Văn Phú Quang Huy - [ACL] Hierarchical Neural Story Generation http://aclweb.org/anthology/P18-1082
+Slide: https://speakerdeck.com/vanhuyz/paper-reading-hierarchical-neural-story-generation
 
 ---

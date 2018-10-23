@@ -8,3 +8,5 @@ Với 1 chủ đề xuyên suốt 2 tiếng thời lượng của chương trìn
 Nhóm sẽ cover từ lý thuyết cho đến code, coding và 1 bài test nhỏ.
 Người trình bày: Nguyễn Bình Khiêm, Trần Duy, Khang Pham, Văn Phú Quang Huy, Tạ Đức Tùng
 Do phòng bé nên số ng tham gia bị giới hạn là 20, first come first serve.
+
+Slide: https://www.slideshare.net/KhangPham3/overview-on-optimization-algorithms-in-deep-learning

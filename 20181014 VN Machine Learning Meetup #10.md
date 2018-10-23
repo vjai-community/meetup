@@ -33,6 +33,8 @@ The weakness of Deep RL is the need to consume a large quantity of data to devis
 
 Let’s come and have a sharing knowledge about Deep Reinforcement Learning and its future with Phong, an AI researcher from Hitachi. Phong’s been trying to apply Deep RL into several problem in the industry. He will share a basic framework of Deep Reinforcement Learning and his opinions on this potential algorithm.
 
+[Slide](https://docs.google.com/presentation/d/e/2PACX-1vTCKGcquy2Uri7LizA2n9-FnegRvE2MnE_KPg8WowOUY5lJgxkP0C7ShmQpXeQH_ZOvXiwkzxjWmv9P/pub?start=false&loop=false&delayms=3000&fbclid=IwAR3cUFy0HYGI4nZtrqontoLT4IVDI_8ErrMpgQXjltVzBqsOVczcKLbu6LU)
+
 --------
 Speaker: Nguyễn Duy Khương (Rakuten)
 Title: Deep Reinforcement Learning for Recommendation Systems
