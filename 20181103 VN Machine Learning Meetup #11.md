@@ -3,7 +3,7 @@
 Chào cả nhà, đến với Meetup #11, chúng ta sẽ được gặp gỡ 2 khách mời mang đến cho chúng ta 2 bài nói trong lĩnh vực Reinforcement Learning và Computer Vision.
 
 * Thời gian: 14h~18h thứ 7 - 3/11/2018 (mở cửa đón khách 13h40 ~ 13h55)
-* Địa điểm: Google Japan Inc. <br>
+* Địa điểm: Roppongi Mori Tower <br>
 〒106-6126 東京都, 港区, 六本木, 6-10-1 六本木ヒルズ森タワー <br>
 
 Hướng dẫn: Tập trung tại tầng 1 tòa nhà Mori Tower rồi cùng checkin và lên văn phòng
@@ -12,7 +12,7 @@ Chú ý vì vấn đề an ninh của toà nhà là yêu cầu đăng ký trư�
 
 https://goo.gl/forms/CLYdzD9O5YNUie9V2
 
-Lần này tổ chức tại Google và phòng chỉ có thể chứa 25 người nên nếu số người đăng ký nhiều hơn, ban tổ chức sẽ áp dụng hình thức Lottery (như đã thông báo trên facebook group).
+Lần này tổ chức tại Mori Tower và phòng chỉ có thể chứa 25 người nên nếu số người đăng ký nhiều hơn, ban tổ chức sẽ áp dụng hình thức Lottery (như đã thông báo trên facebook group).
 Link thông báo trên Facebook:
 https://www.facebook.com/groups/1332064783547219/permalink/1961572643929760/
 
@@ -24,7 +24,7 @@ Nội dung chương trình:
 ---
 
 ### Speaker:
-Dương Nguyễn (Google Japan Inc.)
+Nguyễn Tuấn Dương
 ### Abstract:
 Policy Gradients (PG) is a powerful approach for modern model-free reinforcement learning. In this talk, we discuss various PG algorithms, from the vanilla PG to actor-critic style PG to some recent state-of-the-art methods such as TRPO/PPO. Along the way, we try to understand their motivation, technical details and possible future works.
 This talk by no means can cover all aspects of this vast topic, but hopefully will provide enough basic knowledge for aspiring audience to dive into latest PG research.
