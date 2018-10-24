@@ -15,3 +15,5 @@ Demo của tác giả paper: https://youtu.be/9reHvktowLY <br>
 
 Và diễn giả Huy có thể cũng sẽ mang đến cho chúng ta 1 demo nho nhỏ. <br>
 Hãy cùng đến tranh luận nào !!
+
+Slide: https://www.slideshare.net/vanhuyz/kaonet-v2-face-translation-using-cyclegan
