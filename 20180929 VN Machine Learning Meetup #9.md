@@ -35,6 +35,9 @@ belongs to the objects. In this seminar, we will discuss about Mask-RCNN, one of
  we will dive into the design of Mask RCNN neural network architecture. Finally,
  we will enjoy a demonstration to see how Mask-RCNN segments our faces, our bodies
  and our stuffs in realtime.
+### Slide:
+https://www.slideshare.net/hitheone/maskrcnn-for-instance-segmentation-117485267
+
 ### Related papers:
 1. Kaiming He, Georgia Gkioxari, Piotr Dollár, and Ross Girshick. Mask R-CNN. In ICCV, 2017.
   https://arxiv.org/abs/1703.06870
@@ -58,13 +61,16 @@ belongs to the objects. In this seminar, we will discuss about Mask-RCNN, one of
 ### Speaker:
 khanhtc
 ### Title: HMM at a glance
-### Description: :
+### Description:
 Hidden Markov Models are ubiquitous tool for modelling time series data.
 They are used in almost all current speech recognition systems, in numerous
 applications in computational molecular biology, in data compression, and in
 other areas of artificial intelligence and pattern recognition. In this session,
 we are going to look at the question "what are Hidden Markov Models?"
  and play around with this in some real life examples.
+### Slide:
+https://slides.com/khanhtc/deck-1
+
 ### Ref to:
 - PRML book chapter 13
 ### Other materials:

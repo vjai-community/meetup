@@ -15,3 +15,10 @@ Tác giả: Nguyễn Dương, Nguyễn Đạt
 1 ví dụ rất hay được dùng để nói về GAN là việc training cho 1 anh cảnh sát chuyên đi phân biệt tiền giả tiền thật và training cho 1 anh trộm chuyên làm tiền giả. Việc training song song cho cả 2 người sẽ đc tiến hành bằng cách trộm in tiền giả ra đưa cho cảnh xem, nhận lại feedback là đấy là giả hay thật. Việc chạy song song sẽ dừng khi ảnh cảnh sát của chúng ta không còn phân biệt dc thật và giả nữa, từ đấy chúng ta có máy in tiền xịn :D
 Đây là link tài liệu gốc cho các bạn muốn xem kỹ thêm:
 https://arxiv.org/abs/1406.2661
+
+* **Slide**:
+  * https://github.com/nptdat/gan_tutorial/blob/master/GAN.pdf
+
+* **Demo**:
+  * https://github.com/nptdat/gan_tutorial/blob/master/DEMO_GAN.ipynb
+  * https://github.com/nptdat/gan_tutorial/blob/master/DEMO_DCGAN_MNIST.ipynb
