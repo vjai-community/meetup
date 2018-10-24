@@ -8,6 +8,8 @@ Presenter: Cao Vu Dung
 
 In this seminar, we will explore several important applications of the fundamental RNN models for various critical tasks including image captioning, machine translation, and speech recognition. First, a brief review of the RNN models is presented to provide the prerequisite and essential knowledge of RNN. In the main part, we will dig deep into the major cutting-edge algorithms and techniques for the tasks of image captioning, machine translation, and speech recognition through reviewing a number of recent influential papers on sequence to sequence models that have achieved the state-of-the-art accuracy and performance.
 
+Slide: https://drive.google.com/file/d/1i061EYoO2SR5_On_TIelT5Qx_neva-Xb/view
+
 ---
 
 Trong buổi seminar này, chúng ta sẽ thảo luận về sequence to sequence models qua ứng dụng cụ thể của các mô hình này.
@@ -25,3 +27,4 @@ Sutskever, I., Vinyals, O., & Le, Q. V. (2014). Sequence to sequence learning wi
 Cho, K., Van Merriënboer, B., Gulcehre, C., Bahdanau, D., Bougares, F., Schwenk, H., & Bengio, Y. (2014). Learning phrase representations using RNN encoder-decoder for statistical machine translation. arXiv preprint arXiv:1406.1078.
 
 Bahdanau, D., Cho, K., & Bengio, Y. (2014). Neural machine translation by jointly learning to align and translate. arXiv preprint arXiv:1409.0473.
+
