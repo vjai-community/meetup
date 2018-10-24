@@ -8,11 +8,11 @@
 |[#3]()| Nguyễn Tuấn Dương, Nguyễn Phước Tất Đạt | Generative Adversarial Networks (GANs) | [link]( https://github.com/nptdat/gan_tutorial/blob/master/GAN.pdf) |
 |[#4]()| Văn Phú Quang Huy | KaoNet v2: Face Translation using CycleGAN| [link](https://www.slideshare.net/vanhuyz/kaonet-v2-face-translation-using-cyclegan) |
 |[#5]()| Văn Phú Quang Huy | 3 Challenges in Customer Feedback Classification | [link](https://www.slideshare.net/vanhuyz/3-challenges-in-customer-feedback-classification-93750360)|
-|[#5]()|  Bùi Hồng Hà | From Hadoop to Data Ware House | [link](https://www.slideshare.net/talzeus/from-hadoop-to-enterprise-data-warehouse) |
+|[#5]()| Bùi Hồng Hà | From Hadoop to Data Ware House | [link](https://www.slideshare.net/talzeus/from-hadoop-to-enterprise-data-warehouse) |
 |[#6]()| Khang Phạm | Word Embedding | [link](https://www.slideshare.net/KhangPham3/a-note-on-word-embedding) |
 |[#7]()| Đỗ Minh Hải | Recurent Neural Networks | [link](https://dominhhai.github.io/vi/talk/dl-rnn) |
 |[#8]()| Cao Vũ Dũng | Sequence to Sequence Models: A Review | |
-|[#9]()| khanhtc | HMM at a glance | [link](https://slides.com/khanhtc/deck-1) |
+|[#9]()| Trần Công Khanh | HMM at a glance | [link](https://slides.com/khanhtc/deck-1) |
 |[#9]()| Nguyễn Phước Tất Đạt | An introduction to Mask-RCNN | [link](https://www.slideshare.net/hitheone/maskrcnn-for-instance-segmentation-117485267) |
 |[#10]()| Phong Nguyễn | Deep Reinforcement Learning |[link](https://docs.google.com/presentation/d/e/2PACX-1vTCKGcquy2Uri7LizA2n9-FnegRvE2MnE_KPg8WowOUY5lJgxkP0C7ShmQpXeQH_ZOvXiwkzxjWmv9P/pub?start=false&loop=false&delayms=3000&fbclid=IwAR3cUFy0HYGI4nZtrqontoLT4IVDI_8ErrMpgQXjltVzBqsOVczcKLbu6LU)|
 |[#10]()| Nguyễn Duy Khương | Deep Reinforcement Learning for Recommendation Systems |   |
