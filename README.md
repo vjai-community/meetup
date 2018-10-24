@@ -11,7 +11,7 @@
 |[#5](20180331_VJAI_MLMeetup_%2305.md)| Bùi Hồng Hà | From Hadoop to Data Ware House | [link](https://www.slideshare.net/talzeus/from-hadoop-to-enterprise-data-warehouse) |
 |[#6](20180603_VJAI_MLMeetup_%2306.md)| Khang Phạm | Word Embedding | [link](https://www.slideshare.net/KhangPham3/a-note-on-word-embedding) |
 |[#7](20180708_VJAI_MLMeetup_%2307.md)| Đỗ Minh Hải | Recurent Neural Networks | [link](https://dominhhai.github.io/vi/talk/dl-rnn) |
-|[#8](20180812_VJAI_MLMeetup_%2308.md)| Cao Vũ Dũng | Sequence to Sequence Models: A Review | |
+|[#8](20180812_VJAI_MLMeetup_%2308.md)| Cao Vũ Dũng | Sequence to Sequence Models: A Review | [link](https://drive.google.com/file/d/1i061EYoO2SR5_On_TIelT5Qx_neva-Xb/view) |
 |[#9](20180929_VJAI_MLMeetup_%2309.md)| Trần Công Khanh | HMM at a glance | [link](https://slides.com/khanhtc/deck-1) |
 |[#9](20180929_VJAI_MLMeetup_%2309.md)| Nguyễn Phước Tất Đạt | An introduction to Mask-RCNN | [link](https://www.slideshare.net/hitheone/maskrcnn-for-instance-segmentation-117485267) |
 |[#10](20181014_VJAI_MLMeetup_%2310.md)| Phong Nguyễn | Deep Reinforcement Learning |[link](https://docs.google.com/presentation/d/e/2PACX-1vTCKGcquy2Uri7LizA2n9-FnegRvE2MnE_KPg8WowOUY5lJgxkP0C7ShmQpXeQH_ZOvXiwkzxjWmv9P/pub?start=false&loop=false&delayms=3000&fbclid=IwAR3cUFy0HYGI4nZtrqontoLT4IVDI_8ErrMpgQXjltVzBqsOVczcKLbu6LU)|
