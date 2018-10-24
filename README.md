@@ -19,7 +19,10 @@
 |[#11](20181103_VJAI_MLMeetup_%2311.md)| Nguyễn Tuấn Dương | TBA | |
 |[#11](20181103_VJAI_MLMeetup_%2311.md)| Phan Doãn Phúc | TBA |
 
-## [VJAI Paper Reading Festival](20180819_VJAI_PaperReading_%2301.md)
+## VJAI Paper Reading Festival
+
+### [Summer 2018](20180819_VJAI_PaperReading_%2301.md)
+
 |No| Speaker | Title | Slide|
 |:-:|--------|-------|------|
 | 1| Đỗ Minh Hải | [ICML] Learning Longer-term Dependencies in RNNs with Auxiliary Losses | [link](https://dominhhai.github.io/vi/talk/paper-longer-term-rnn) |
