@@ -20,8 +20,7 @@ Hẹn gặp lại cả nhà vào buổi sắp tới!
 
 Nội dung chương trình:
 ---
-### Speaker
-Lê Trung Kiên (Microsoft)
+### Speaker: Lê Trung Kiên (Microsoft)
 
 ### Title: TBA
 
@@ -33,8 +32,7 @@ Phần cuối cùng sẽ là những chia sẻ về kinh nghiệm phát triển 
 
 ---
 
-### Speaker
-Võ Đức Khánh (NVIDIA)
+### Speaker: Võ Đức Khánh (NVIDIA)
 
 ### Title: Công nghệ xe tự lái của NVIDIA - Quá khứ, Hiện tại, Tương lai
 
