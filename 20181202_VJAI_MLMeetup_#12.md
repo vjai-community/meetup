@@ -10,7 +10,7 @@ https://www.microsoft.com/ja-jp/mscorp/branch/sgt.aspx
 
 Hướng dẫn: từ ga Shinagawa đi theo skywalker là đến chỗ reception (tầng 2). Tại đây bạn sẽ lấy vé vào và lên tầng 30.
 
-Chú ý vì vấn đề an ninh của toà nhà là yêu cầu đăng ký trước thông tin họ tên và email nên bạn nào tham gia xin vui lòng điền thông tin theo form dưới đây. Hạn cuối đăng ký là **23:59 thứ 2 - 26/11/2018**.
+Chú ý vì vấn đề an ninh của toà nhà là yêu cầu đăng ký trước thông tin họ tên và email nên bạn nào tham gia xin vui lòng điền thông tin theo form dưới đây. Hạn cuối đăng ký là **23:59 thứ 3 - 27/11/2018**.
 
 Ai không kịp đăng ký trước thời hạn trên sẽ không được vào toà nhà nên ngoài ấn Going thì các bạn **nhớ điền vào form** trên nhé.
 
