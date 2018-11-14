@@ -22,7 +22,8 @@ Hẹn gặp lại cả nhà vào buổi sắp tới!
 
 Nội dung chương trình:
 ---
-### Lê Trung Kiên (Microsoft)
+### Lê Trung Kiên
+AI Software Engineer, Microsoft Japan
 
 ### Rinna
 Rinna là 1 chatbot lần đầu được ra mắt công chúng trên nền tảng nhắn tin LINE từ năm 2015. Kể từ đó, Rinna đã được phát triển và trở thành 1 trong những "conversational AI" nổi tiếng nhất ở Nhật.
