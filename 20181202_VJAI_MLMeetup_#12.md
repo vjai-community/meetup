@@ -1,6 +1,7 @@
 # VN Machine Learning Meetup #12
+Form đăng ký tham dự: [form - TBA]
 
-Chào cả nhà, đến với Meetup #12, chúng ta sẽ được gặp gỡ 2 khách mời từ 2 công ty công nghệ nổi tiếng là NVIDIA và Microsoft, với 2 bài nói về chatbot và công nghệ xe tự lái.
+Chào cả nhà, đến với Meetup #12, chúng ta sẽ được gặp gỡ 2 khách mời từ 2 công ty công nghệ nổi tiếng là Microsoft và NVIDIA, với 2 bài nói về những chủ đề cực hot trong AI hiện nay là chatbot và công nghệ xe tự lái.
 
 * Thời gian: 14h~18h Chủ nhật - 02/12/2018 (mở cửa đón khách 13h40 ~ 13h55)
 * Địa điểm: Microsoft Japan office tầng 30 <br>
@@ -13,11 +14,7 @@ Chú ý vì vấn đề an ninh của toà nhà là yêu cầu đăng ký trư�
 
 Ai không kịp đăng ký trước thời hạn trên sẽ không được vào toà nhà nên ngoài ấn Going thì các bạn **nhớ điền vào form** trên nhé.
 
-Lần này ban tổ chức đã sắp xếp phòng rộng hơn nhưng cũng chỉ chứa được 50 người nên nếu số người đăng ký nhiều hơn, ban tổ chức sẽ áp dụng hình thức Lottery (như đã thông báo trên facebook group).
-
-[form - TBA]
-
-Thêm nữa là việc vào toà nhà không dễ dàng nên các bạn tính toán thời gian cẩn thận để đến đúng giờ nhé.
+Lần này ban tổ chức đã sắp xếp phòng rộng hơn nhưng cũng chỉ chứa được 50 người nên nếu số người đăng ký nhiều hơn, ban tổ chức sẽ áp dụng hình thức Lottery (như đã thông báo trên facebook group). Thêm nữa là việc vào toà nhà không dễ dàng nên các bạn tính toán thời gian cẩn thận để đến đúng giờ nhé.
 
 Hẹn gặp lại cả nhà vào buổi sắp tới!
 
