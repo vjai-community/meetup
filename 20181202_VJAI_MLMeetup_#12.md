@@ -35,7 +35,8 @@ Tham khảo thêm về Rinna: https://www.rinna.jp/
 
 ---
 
-### Võ Đức Khánh (NVIDIA)
+### Võ Đức Khánh
+Deep Learning Solution Architect for Robotics & Autonomous Machines, NVIDIA
 
 ### Công nghệ xe tự lái của NVIDIA - Quá khứ, Hiện tại, Tương lai
 Phần đầu của bài nói chuyện sẽ được giành cho việc trình bày về quá trình hình thành nhóm xe hơi tự động của công ty từ 2008 đến 2014, các sản phẩm kết quả của giai đoạn đó mà chúng ta có thể tạm xem là thời quá khứ.
