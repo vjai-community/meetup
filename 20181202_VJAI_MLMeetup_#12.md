@@ -8,7 +8,7 @@ Chào cả nhà, đến với Meetup #12, chúng ta sẽ được gặp gỡ kh�
 108-0075 東京都港区港南 2-16-3 品川グランドセントラルタワー <br>
 https://www.microsoft.com/ja-jp/mscorp/branch/sgt.aspx
 
-Hướng dẫn: từ ga Shinagawa đi theo skywalker là đến chỗ reception (tầng 2). Tại đây bạn sẽ lấy vé vào và lên tầng 30.
+Hướng dẫn: từ ga JR Shinagawa cửa Kounan (港南口) đi theo skywalker là đến chỗ reception (tầng 2). Tại đây bạn sẽ lấy vé vào và lên tầng 30.
 
 Chú ý: do yêu cầu an ninh toà nhà, đề nghị các bạn điền thông tin theo form dưới đây. Hạn cuối đăng ký là **23:59 thứ 3 - 27/11/2018**.
 
