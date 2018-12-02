@@ -16,8 +16,10 @@
 |[#9](20180929_VJAI_MLMeetup_%2309.md)| Nguyễn Phước Tất Đạt | An introduction to Mask-RCNN | [link](https://www.slideshare.net/hitheone/maskrcnn-for-instance-segmentation-117485267) |
 |[#10](20181014_VJAI_MLMeetup_%2310.md)| Phong Nguyễn | Deep Reinforcement Learning |[link](https://docs.google.com/presentation/d/e/2PACX-1vTCKGcquy2Uri7LizA2n9-FnegRvE2MnE_KPg8WowOUY5lJgxkP0C7ShmQpXeQH_ZOvXiwkzxjWmv9P/pub?start=false&loop=false&delayms=3000&fbclid=IwAR3cUFy0HYGI4nZtrqontoLT4IVDI_8ErrMpgQXjltVzBqsOVczcKLbu6LU)|
 |[#10](20181014_VJAI_MLMeetup_%2310.md)| Nguyễn Duy Khương | Deep Reinforcement Learning for Recommendation Systems |   |
-|[#11](20181103_VJAI_MLMeetup_%2311.md)| Nguyễn Tuấn Dương | TBA | |
-|[#11](20181103_VJAI_MLMeetup_%2311.md)| Phan Doãn Phúc | TBA |
+|[#11](20181103_VJAI_MLMeetup_%2311.md)| Nguyễn Tuấn Dương | Policy Gradients (PG) | [link]|
+(https://ntduong.github.io/policy-gradient-rl/#/)
+|[#11](20181103_VJAI_MLMeetup_%2311.md)| Phan Doãn Phúc | Triplet Loss – the Good the Bad and the Ugly | [link]|
+(https://drive.google.com/file/d/1fYYpOjgKBvnRClwFtJ48CY63LbGGJGH3/view?fbclid=IwAR1-3hEQECwOVgfituV-aMcVjK7Abbe51rLV99kdEeFB_pGQW6b6v6ZGWXo)
 
 ## VJAI Paper Reading Festival
 
