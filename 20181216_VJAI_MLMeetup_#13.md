@@ -34,7 +34,7 @@ Since proposed in 2017, Attention has been evolved and become one of the most at
 ---
 
 ### Nguyễn Phước Tất Đạt
-(TBC) BizReach, Inc.
+AI Research Engineer (BizReach, Inc.)
 
 ### Machine can do reading comprehension test for you
 Reading comprehension, or question answering, is one of the most important and challenging natural language processing (NLP) tasks, in which a concrete answer is produced with respect to a question on an input text. This task is hard for even human when the input texts are complex, and it is used to test language proficiency of readers.
