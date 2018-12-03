@@ -1,12 +1,12 @@
 # VN Machine Learning Meetup #13
 Form đăng ký tham dự: https://goo.gl/forms/pjMCFs7gDayq7sW93
 
-Chào cả nhà, đến với buổi Meetup cuối cùng của năm 2018, chúng ta sẽ đến với 2 bài toán nổi trội trong lĩnh vực xử lý ngôn ngữ tự nhiên là dịch máy (Machine Translattion) và đọc hiểu văn bản (Reading Comprehension). Hãy cùng đến xem xem máy tính đang tiến sát với con người trong việc xử lý ngôn ngữ đến đâu nhé.
+Chào cả nhà, đến với buổi Meetup cuối cùng của năm 2018, chúng ta sẽ đến với 2 bài toán nổi trội trong lĩnh vực xử lý ngôn ngữ tự nhiên là dịch máy (Machine Translattion) và đọc hiểu văn bản (Reading Comprehension). Hãy cùng đến xem máy tính đang tiến sát với con người trong việc xử lý ngôn ngữ đến đâu nhé.
 
 * Thời gian: 14h~18h Chủ nhật - 16/12/2018 (mở cửa đón khách 13h40 ~ 13h55)
 * Địa điểm: BizReach, Inc. 渋谷363清水ビル<br>
 〒150-0002, 3 Chome-6-3 Shibuya, Tokyo
-https://www.google.com/maps/place/%E6%B8%8B%E8%B0%B7363%E6%B8%85%E6%B0%B4%E3%83%93%E3%83%AB/@35.6579054,139.7029824,17z/data=!4m12!1m6!3m5!1s0x60188b596a766fc5:0xec3765750fe79ab1!2z5riL6LC3MzYz5riF5rC044OT44Or!8m2!3d35.6579054!4d139.7051711!3m4!1s0x60188b596a766fc5:0xec3765750fe79ab1!8m2!3d35.6579054!4d139.7051711
+https://goo.gl/maps/VbbahJ1x9152
 
 Hạn cuối đăng ký là **23:59 thứ 3 - 11/12/2018**.
 
@@ -24,7 +24,7 @@ Nội dung chương trình:
 AI Solutions Architect
 
 ### Pay More Attention to Attention Mechanism
-Since proposed in 2017, Attention has been evolved and become one of the most attended mechanism in fields like computer vision, nature language processing and even in recommendation system. Taking machine translation problem as an example, this talk will walk through the intuition of this mechanism as well as its evolution from encode-decoder attention to self-attention and lastly, Transformer (Attention is all you need: rank 4th most popular paper of all time on Arxiv Sanity), which removed completely conventional RNNs architecture.
+Since proposed in 2014, Attention has been recently evolved and become one of the most attended mechanism in fields like computer vision, nature language processing and even in recommendation system. Taking machine translation problem as an example, this talk will walk through the intuition of this mechanism as well as its evolution from encode-decoder attention to self-attention and lastly, Transformer (Attention is all you need: rank 4th most popular paper of all time on Arxiv Sanity), which removed completely conventional RNNs architecture.
 
 ### References
 1. Bahdanau et al,. Neural Machine Translation by Jointly Learning to Align and Translate. ICLR 2015
