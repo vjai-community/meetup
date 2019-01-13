@@ -4,7 +4,7 @@
   (Hạn cuối đăng ký là **23:59 thứ 3 - 22/1/2019**)
 
 Xin gửi đến cả nhà VJAI lời chào đầu năm!
-Đến với meetup mở đầu cho năm 2019, chúng ta sẽ cùng nghe 2 bài nói. Một bài sẽ cung cấp cái nhìn tổng quát về các mô hình xử lý ngôn ngữ được đề xuất trong năm 2018 dựa trên kỹ thuật Deep Learning. Có thể nói đây là 1 xu hướng mới trong lĩnh vực xử lý ngôn ngữ, đang thu hút sự quan tậm cộng đồng nghiên cứu. Một bài nói khác sẽ giới thiệu kiến thức căn bản về mạng Neural cùng với thuật toán để huấn luyện mạng, thành tố căn bản của công nghệ Deep Learning.
+Đến với meetup mở đầu cho năm 2019, chúng ta sẽ cùng nghe 2 bài nói. Bài thứ nhất sẽ cung cấp cái nhìn tổng quát về các mô hình xử lý ngôn ngữ được đề xuất trong năm 2018 dựa trên kỹ thuật Deep Learning. Có thể nói đây là 1 xu hướng mới trong lĩnh vực xử lý ngôn ngữ, đang thu hút sự quan tâm cộng đồng nghiên cứu. Bài thứ hai sẽ giới thiệu kiến thức căn bản về mạng nơ ron cùng với thuật toán để huấn luyện mạng, thành tố căn bản của công nghệ Deep Learning.
 
 Nội dung của buổi meetup lần này sẽ phù hợp cho cả những chuyên gia xử lý ngôn ngữ, chuyên gia AI lẫn những bạn mới tiếp cận với AI, mà đặc biệt là Deep Learnning.
 
