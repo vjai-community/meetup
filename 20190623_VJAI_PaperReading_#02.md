@@ -11,7 +11,7 @@ Thời gian: Chủ nhật 23/6/2019 14:00 ~ 17:30
 東京都渋谷区恵比寿4-20-3　恵比寿ガーデンプレイスタワー12F
 https://info.cookpad.com/corporate/access
 
-Chú ý: do yêu cầu an ninh toà nhà, đề nghị các bạn điền thông tin theo form ở trên. Hạn cuối đăng ký là **23:59 thứ 5 - 19/6/2019**.
+Chú ý: vì số lượng ghế có hạn, đề nghị các bạn điền thông tin theo form ở trên. Hạn cuối đăng ký là **23:59 thứ 4 - 18/6/2019**.
 
 Ai không kịp đăng ký trước thời hạn trên sẽ không được vào toà nhà nên ngoài ấn Going thì các bạn **nhớ điền vào form** trên nhé.
 
