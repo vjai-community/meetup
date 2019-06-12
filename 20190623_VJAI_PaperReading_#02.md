@@ -19,7 +19,7 @@ Chương trình dự kiến:
 
 ---
 
-Văn Phú Quang Huy - [] TBD
+Văn Phú Quang Huy - [NAACL 2019] TBD
 
 
 Anh Le - [ICLR 2019] Adversarial Reprogramming of Neural Networks
