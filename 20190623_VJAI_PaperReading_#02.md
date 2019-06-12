@@ -22,7 +22,7 @@ Chương trình dự kiến:
 Văn Phú Quang Huy - [] TBD
 
 
-Anh Le - [ICLR 2019] MobileNetV2: Adversarial Reprogramming of Neural Networks
+Anh Le - [ICLR 2019] Adversarial Reprogramming of Neural Networks
 https://arxiv.org/abs/1806.11146
 
 
