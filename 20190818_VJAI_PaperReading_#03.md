@@ -33,11 +33,17 @@ http://proceedings.mlr.press/v97/tan19a/tan19a.pdf
 http://openaccess.thecvf.com/content_CVPR_2019/html/Tan_MnasNet_Platform-Aware_Neural_Architecture_Search_for_Mobile_CVPR_2019_paper.html
 
 
-Nguyễn Vũ Thanh Tùng - Overview of recent "big" achievement in languague model
+Nguyễn Vũ Thanh Tùng - Overview of recent big language models
 XLNet: Generalized Autoregressive Pretraining for Language Understanding:
 https://arxiv.org/abs/1906.08237
 
+SpanBERT: Improving Pre-training by Representing and Predicting Spans
+https://arxiv.org/abs/1907.10529
+
 RoBERTa: A Robustly Optimized BERT Pretraining Approach
 https://arxiv.org/abs/1907.11692
+
+ERNIE 2.0: A Continual Pre-training Framework for Language Understanding
+https://arxiv.org/abs/1907.12412
 
 ---
