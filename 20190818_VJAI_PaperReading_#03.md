@@ -19,8 +19,9 @@ Chương trình dự kiến:
 
 ---
 
-Nguyễn Phước Tất Đạt - TBD
-
+Nguyễn Phước Tất Đạt - [KDD 2019] Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks
+http://delivery.acm.org/10.1145/3340000/3330925/p257-chiang.pdf
+In this talk, I would like to give a brief introduction to Graph Convolutional Network (GCN), a powerful network architecture for graph-based applications, then present the paper on Cluster-GCN algorithm for large scale data. 
 
 Văn Phú Quang Huy - [CVPR 2019] Inverse Cooking: Recipe Generation from Food Images
 https://arxiv.org/abs/1812.06164
