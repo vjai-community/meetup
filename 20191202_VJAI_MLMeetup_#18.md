@@ -1,25 +1,23 @@
 # VJAI Meetup #18
 :clock3: Thời gian: 14h~18h Chủ nhật - 02/12/2019 (mở cửa đón khách 13h40 ~ 13h55)
 
-:point_right: Form đăng ký tham dự: https://forms.gle/DRiZg5bVyJKtQZuo8
-(Hạn cuối đăng ký là 23:59 thứ 3 ngày 21/5/2019)
+:point_right: Form đăng ký tham dự: https://forms.gle/dyq8Vm148henfVAa9
+(Hạn cuối đăng ký là 23:59 thứ 6 ngày 30/11/2019)
 
-Sau buổi meetup với chủ đề ứng dụng AI trong y tế và giao lưu cùng VinAI, VJAI meetup trong tháng 5 sẽ đến với 2 chủ đề liên quan đến Deep Learning: 1 chủ đề về kỹ thuật quan trọng trong việc huấn luyện mô hình và 1 chủ đề về ứng dụng Deep Learning trong edge computing.
+Sau một thời gian nghỉ ngơi khá dài, chúng ta cùng quay lại với 2 chủ đề rất hấp dẫn là Abstractive text summarization và Survival Analysis. Hãy cùng đến nghe và xem các tác giả giới thiệu những kỹ thuật liên quan đến các chủ đề hấp dẫn trong AI nhé.
 
-* Thời gian: 14h~18h Chủ nhật - 26/5/2018 (mở cửa đón khách 13h40 ~ 13h55)
-* Địa điểm: Microsoft Japan office tầng 30 <br>
-108-0075 東京都港区港南 2-16-3 品川グランドセントラルタワー <br>
-https://www.microsoft.com/ja-jp/mscorp/branch/sgt.aspx
-
-Hướng dẫn: từ ga JR Shinagawa cửa Kounan (港南口) đi theo skywalker là đến chỗ reception (tầng 2). Tại đây bạn sẽ lấy vé vào và lên tầng 30.
+- Địa điểm: Cookpad Inc
+〒150-6012 東京都渋谷区恵比寿4-20-3　恵比寿ガーデンプレイスタワー12F
+Hướng dẫn: từ ga JR Ebisu đi theo đường Skywalk đến Ebisu Garden Place Tower, lên tầng 12 sẽ thấy ngay văn phòng của Cookpad
+https://info.cookpad.com/corporate/access
 
 Chú ý: do yêu cầu an ninh toà nhà, đề nghị các bạn điền thông tin theo form dưới đây. Hạn cuối đăng ký là **23:59 thứ 3 - 21/5/2019**.
 
-https://forms.gle/DRiZg5bVyJKtQZuo8
+https://forms.gle/dyq8Vm148henfVAa9
 
 Ai không kịp đăng ký trước thời hạn trên sẽ không được vào toà nhà nên ngoài ấn Going thì các bạn **nhớ điền vào form** trên nhé.
 
-Lần này ban tổ chức đã sắp xếp phòng rộng hơn nhưng cũng chỉ chứa được 50 người nên nếu số người đăng ký nhiều hơn, ban tổ chức sẽ áp dụng hình thức Lottery (như đã thông báo trên facebook group). Thêm nữa là việc vào toà nhà không dễ dàng nên các bạn tính toán thời gian cẩn thận để đến đúng giờ nhé.
+Lần này ban tổ chức đã sắp xếp phòng rộng hơn nhưng cũng chỉ chứa được 25 người nên nếu số người đăng ký nhiều hơn, ban tổ chức sẽ áp dụng hình thức Lottery (như đã thông báo trên facebook group). Thêm nữa là việc vào toà nhà không dễ dàng nên các bạn tính toán thời gian cẩn thận để đến đúng giờ nhé.
 
 Hẹn gặp lại cả nhà vào buổi sắp tới!
 
