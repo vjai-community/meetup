@@ -11,7 +11,8 @@ Sau một thời gian nghỉ ngơi khá dài, chúng ta cùng quay lại với 2
 Hướng dẫn: từ ga JR Ebisu đi theo đường Skywalk đến Ebisu Garden Place Tower, lên tầng 12 sẽ thấy ngay văn phòng của Cookpad
 https://info.cookpad.com/corporate/access
 
-Chú ý: do yêu cầu an ninh toà nhà, đề nghị các bạn điền thông tin theo form dưới đây. Hạn cuối đăng ký là **23:59 thứ 3 - 21/5/2019**.
+Chú ý: do yêu cầu an ninh toà nhà, đề nghị các bạn điền thông tin theo form dưới đây. (Hạn cuối đăng ký là 23:59 thứ 6 ngày 30/11/2019)
+
 
 https://forms.gle/dyq8Vm148henfVAa9
 
