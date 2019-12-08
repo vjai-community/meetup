@@ -1,8 +1,8 @@
 # VJAI Meetup #18
-:clock3: Thời gian: 14h~18h Chủ nhật - 02/12/2019 (mở cửa đón khách 13h40 ~ 13h55)
+:clock3: Thời gian: 14h~18h Chủ nhật - 01/12/2019 (mở cửa đón khách 13h40 ~ 13h55)
 
 :point_right: Form đăng ký tham dự: https://forms.gle/dyq8Vm148henfVAa9
-(Hạn cuối đăng ký là 23:59 thứ 6 ngày 30/11/2019)
+(Hạn cuối đăng ký là 23:59 thứ 7 ngày 30/11/2019)
 
 Sau một thời gian nghỉ ngơi khá dài, chúng ta cùng quay lại với 2 chủ đề rất hấp dẫn là Abstractive text summarization và Survival Analysis. Hãy cùng đến nghe và xem các tác giả giới thiệu những kỹ thuật liên quan đến các chủ đề hấp dẫn trong AI nhé.
 
