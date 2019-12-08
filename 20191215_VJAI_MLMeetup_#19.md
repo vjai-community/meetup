@@ -41,7 +41,7 @@ Hẹn gặp lại cả nhà vào buổi sắp tới!
 Nội dung chương trình của buổi meetup#19:
 
 ---
-- Speaker: Nguyễn Tuấn Dương - Google
+- Speaker: Nguyễn Tuấn Dương
 - Title:  Understand Transformer by going through the Annotated Transformer code
 - Abstract: Dive into Transformer with annotated code. We focus on discussion and Q&A on key techniques, and also introduce some interesting ideas from recent work.
 - Ref:
@@ -50,6 +50,4 @@ Nội dung chương trình của buổi meetup#19:
 
 ---
 Title: BERT as an application of Transformer and understanding the secret of BERT
-- Speaker: Phạm Quang Khang - BCG
-- Abstract: Secret
-- References: N/A
+- Speaker: Phạm Quang Khang
