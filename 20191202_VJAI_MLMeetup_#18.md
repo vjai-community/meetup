@@ -25,9 +25,10 @@ Hẹn gặp lại cả nhà vào buổi sắp tới!
 Nội dung chương trình:
 
 ---
-- speaker: Tho Phan - VJAI
-- title:  From Seq2seq with Attention to Abstractive Text Summarization
-- abstract: Abstractive text summarization is nowadays one of the most important research topics in NLP. However, getting a deep understanding of what it is and also how it works requires a series of base pieces of knowledge that build on top of each other. This is the reason why this presentation will give audiences an overview of sequence-to-sequence with the acceleration of various versions of attention over the past few years. In addition, natural language generation (NLG) with the focusing on decoder techniques and its relevant problems will be reviewed, as a supportive factor to the light of the success of automatic summarization. Finally, the abstractive text summarization will be represented with potential approaches to tackle some hot issues in some latest research papers.
+### From Seq2seq with Attention to Abstractive Text Summarization
+### Speaker: Tho Phan - VJAI
+### Abstract: 
+Abstractive text summarization is nowadays one of the most important research topics in NLP. However, getting a deep understanding of what it is and also how it works requires a series of base pieces of knowledge that build on top of each other. This is the reason why this presentation will give audiences an overview of sequence-to-sequence with the acceleration of various versions of attention over the past few years. In addition, natural language generation (NLG) with the focusing on decoder techniques and its relevant problems will be reviewed, as a supportive factor to the light of the success of automatic summarization. Finally, the abstractive text summarization will be represented with potential approaches to tackle some hot issues in some latest research papers.
 - Ref:
 1. Neural Abstractive Text Summarization with Sequence-to-Sequence Models, https://arxiv.org/abs/1812.02303
 2. Text Summarization with Pretrained Encoders, EMNLP-IJCNLP 2019, https://www.aclweb.org/anthology/D19-1387.pdf
@@ -36,9 +37,10 @@ Nội dung chương trình:
 5. Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model, ACL 2019, https://arxiv.org/abs/1906.01749
 and others.
 ---
-Title: Introduction to Survival Analysis
-- Speaker: Phan Hoang Phuong
-- Title: Starting with a question of how to predict duration of time until a death event occurs in clinical medical researches, survival analysis was developed as a branch of statistics to solve this question. Furthermore, survival analysis has been expanded to economics, engineering, and sociology. I would like to introduce this topic to you from Kaplan Meier model in 1958, to Cox model in 1972, and random forest, SVM recently. We will see how survival analysis was developed from a question of when or a time point of an event, to probability accumulation function or a death rate through out a life time, and further a death rate when multiple causes are taken into account.
+### Introduction to Survival Analysis
+### Speaker: Phan Hoang Phuong
+### Abstract: 
+Starting with a question of how to predict duration of time until a death event occurs in clinical medical researches, survival analysis was developed as a branch of statistics to solve this question. Furthermore, survival analysis has been expanded to economics, engineering, and sociology. I would like to introduce this topic to you from Kaplan Meier model in 1958, to Cox model in 1972, and random forest, SVM recently. We will see how survival analysis was developed from a question of when or a time point of an event, to probability accumulation function or a death rate through out a life time, and further a death rate when multiple causes are taken into account.
 - References:
 1. Ishwaran H, Kogalur UB, Blackstone EH and Lauer MS (2008). "Random survival forests." The Annals of Applied Statistics, 2(3), 841-860
 2. Graf E. et al. Assessment and comparison of prognostic classification schemes for survival data. Stat Med. 1999 Sep 15-30;18(17-18):2529-45.

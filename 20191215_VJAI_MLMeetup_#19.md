@@ -11,8 +11,8 @@ Vậy thì bản chất BERT là gì, có thể ứng dụng ra sao, hay làm sa
 
 Sau đây là lịch sơ bộ của 3 buổi meetups:
 - Buổi 1 (VJAI Meetup #19): 14h~18h Chủ nhật - 15/12/2019: Kiến thức cơ bản về Attention, Transformer & BERT
-- Buổi 2 (VJAI Meetup #20): 14h~18h Chủ nhật - 12/1/2020: Các ứng dụng của BERT
-- Buổi 3 (VJAI Meetup #21): 14h~18h Chủ nhật - 26/1/2020: Làm sao để dùng BERT trong production
+- Buổi 2 (VJAI Meetup #20): 14h~18h Chủ nhật - 9/2/2020: Làm sao để dùng BERT trong production
+- Buổi 3 (VJAI Meetup #21): 14h~18h Chủ nhật - 23/2/2020: Các ứng dụng của BERT
 
 Với loạt meetup lần này, Ban tổ chức (BTC) hi vọng cộng đồng của chúng ta sẽ có những buổi thảo luận thật sâu, hiểu cặn kẽ và chia sẻ những kinh nghiệm thực tế đối với chủ đề BERT. Do đó, BTC rất mong các bạn tìm hiểu về chủ đề liên quan trong khả năng có thể trước khi tham gia meetup.
 
@@ -41,13 +41,14 @@ Hẹn gặp lại cả nhà vào buổi sắp tới!
 Nội dung chương trình của buổi meetup#19:
 
 ---
-- Speaker: Nguyễn Tuấn Dương
-- Title:  Understand Transformer by going through the Annotated Transformer code
-- Abstract: Dive into Transformer with annotated code. We focus on discussion and Q&A on key techniques, and also introduce some interesting ideas from recent work.
+### Understand Transformer by going through the Annotated Transformer code
+### Speaker: Nguyễn Tuấn Dương
+### Abstract: 
+Dive into Transformer with annotated code. We focus on discussion and Q&A on key techniques, and also introduce some interesting ideas from recent work.
 - Ref:
 * Annotated Transformer, https://nlp.seas.harvard.edu/2018/04/03/attention.html
 
 
 ---
-Title: BERT as an application of Transformer and understanding the secret of BERT
-- Speaker: Phạm Quang Khang
+### BERT as an application of Transformer and understanding the secret of BERT
+### Speaker: Phạm Quang Khang
