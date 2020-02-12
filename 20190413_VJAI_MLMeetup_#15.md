@@ -26,17 +26,17 @@ https://www.facebook.com/groups/1332064783547219/permalink/1961572643929760/
 Abstract của hai bài nói của Dr. Trần Phước Duy và Trần Quang Thiện:
 
 =============================
-
+### Machine learning aided biomolecular design: from understanding functions to virtual screening <br>
+### Speaker
 Dr. Tran Phuoc Duy <br>
 School of Life Sciences and Technology, Tokyo Institute of Technology <br>
-Title: Machine learning aided biomolecular design: from understanding functions to virtual screening <br>
-Abstract: <br>
+### Abstract
 The time scale of biological process, which involves upper thousands of molecules, are usually larger than microsecond exceeding the capability of the current computational approach to yield a reliable insight massively. Machine learning plays the roll as a powerful tool to help the current computational methods overcome not only the time-scale obstacle, but also help to determine the design problem for a given function in need. Here we will present and discuss about three main research themes that we are focused on: taking advantage of Markov state modeling for functional understanding of biomolecular complexes; Monte Carlo tree search as a powerful tool for enhanced sampling; actor-critic functional design of antimicrobial and antifreeze peptides. (edited)
 
 =============================
-
+### Deep learning in healthcare: Opportunities and challenges with electronic health records (EHR) data
+### Speaker
 Trần Quang Thiện <br>
 Department of Computer Science,  University of Tsukuba (Master's student) <br>
-Title: Deep learning in healthcare: Opportunities and challenges with electronic health records (EHR) data. <br>
-Abstract: <br>
+### Abstract
 Interested in deep learning for healthcare has grown strongly recent years besides with the successes in other domains such as Computer Vision, Natural Language Processing, Speech Recognition and so forth. This talk will try to give a brief look into the recent effort of research in deep learning for healthcare. Especially, this talk focuses on the opportunities and challenges in using electronic health records (EHR) data, which is one of the most important data sources in healthcare domain.
