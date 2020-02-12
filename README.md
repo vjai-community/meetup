@@ -47,7 +47,7 @@
 |No| Speaker | Title | Slide|
 |:-:|--------|-------|------|
 | 1| Anh Le | [ICLR 2019] [Adversarial Reprogramming of Neural Networks](https://arxiv.org/abs/1806.11146) | [slide](https://drive.google.com/file/d/1N0XDfgh_jF-RbUcIxGSG11vF00qLlbgf/view?usp=sharing) |
-| 2|Phan Hữu Thọ | [NeurIPS 2018] [Precision and Recall for Time Series](http://papers.nips.cc/paper/7462-precision-and-recall-for-time-series) |  |
+| 2|Phan Hữu Thọ | [NeurIPS 2018] [Precision and Recall for Time Series](http://papers.nips.cc/paper/7462-precision-and-recall-for-time-series) | [slide](https://www.slideshare.net/ThoPhan27/precision-and-recall-for-time-series) |
 | 3|Nguyễn Tuấn Dương | [NeurIPS 2018] [Neural Ordinary Differential Equations](https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations?fbclid=IwAR1v13QZetlZyzZQqedMYM1sSQMUKSi21JM6ha4GRUU8J1l-qlmFZzBEYeo) | |
 
 
