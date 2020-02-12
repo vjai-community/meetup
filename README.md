@@ -55,6 +55,6 @@
 |No| Speaker | Title | Slide|
 |:-:|--------|-------|------|
 | 1| Nguyễn Phước Tất Đạt | [KDD 2019] [Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://arxiv.org/pdf/1905.07953.pdf) | [slide](https://www.slideshare.net/hitheone/vjai-paper-reading3kdd2019clustergcn) |
-| 2|Văn Phú Quang Huy | [CVPR 2019] [Inverse Cooking: Recipe Generation from Food Images](https://arxiv.org/abs/1812.06164) |  |
+| 2|Văn Phú Quang Huy | [CVPR 2019] [Inverse Cooking: Recipe Generation from Food Images](https://arxiv.org/abs/1812.06164) | [slide](https://speakerdeck.com/vanhuyz/paper-reading-inverse-cooking-recipe-generation-from-food-images) |
 | 3|Phạm Quang Khang | [CVPR 2018 - CVPR/ICML 2019] Effort and achievement of AutoML in neural architecture search - From NasNet to Efficient Net and further |[slide](https://www.slideshare.net/KhangPham3/nas-net-where-model-learn-to-generate-models) |
 | 4|Nguyễn Vũ Thanh Tùng | Overview of recent big language models |  |
