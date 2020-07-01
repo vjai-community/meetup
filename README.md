@@ -27,6 +27,7 @@
 |[#19](20191215_VJAI_MLMeetup_%2319.md#understand-transformer-by-going-through-the-annotated-transformer-code)| Nguyễn Tuấn Dương | Understand Transformer by going through the Annotated Transformer code | [slide](https://docs.google.com/presentation/d/17HgVgXiHsd5WsxoaKnZ8K0ATZ9IksT87xd3_eHEwsDM) |
 |[#19](20191215_VJAI_MLMeetup_%2319.md#bert-as-an-application-of-transformer-and-understanding-the-secret-of-bert)| Phạm Quang Khang | BERT as an application of Transformer and understanding the secret of BERT | [slide](https://www.slideshare.net/KhangPham3/bert-206161415) |
 |[#20](20200209_VJAI_MLMeetup_%2320.md)| Nguyễn Anh Tuấn | BERT insights | [[slide on BERT](https://github.com/anhnt170489/vjai_bert_meetup)] [[slide on distillation](https://github.com/anhnt170489/vjai_bert_meetup/blob/master/Distilling%20Bert%40AIST.pdf)] [[code](https://github.com/aistairc/kirt_bert_on_abci)] |
+|[#22](20200627_VJAI_MLMeetup_%2322.md)| Lê Tuấn Anh | DETR: End-to-end Object Detection with Transformers | [[slide on DETR](slides/DETR.pdf)]|
 
 
 ## VJAI Paper Reading Festival
