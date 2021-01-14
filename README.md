@@ -28,6 +28,7 @@
 |[#19](20191215_VJAI_MLMeetup_%2319.md#bert-as-an-application-of-transformer-and-understanding-the-secret-of-bert)| Phạm Quang Khang | BERT as an application of Transformer and understanding the secret of BERT | [slide](https://www.slideshare.net/KhangPham3/bert-206161415) |
 |[#20](20200209_VJAI_MLMeetup_%2320.md)| Nguyễn Anh Tuấn | BERT insights | [[slide on BERT](https://github.com/anhnt170489/vjai_bert_meetup)] [[slide on distillation](https://github.com/anhnt170489/vjai_bert_meetup/blob/master/Distilling%20Bert%40AIST.pdf)] [[code](https://github.com/aistairc/kirt_bert_on_abci)] |
 |[#22](20200627_VJAI_MLMeetup_%2322.md)| Lê Tuấn Anh | DETR: End-to-end Object Detection with Transformers | [[slide on DETR](slides/DETR.pdf)]|
+|[#23](20200627_VJAI_MLMeetup_%2322.md)| Nguyễn Sỹ Quân | Deeplab: Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation | [[slide on Deeplab](https://docs.google.com/presentation/d/17iGzE4dkUV2NG-BEwz7FUl9gC3L_qWUu6S37Ov0BJAA)]|
 
 
 ## VJAI Paper Reading Festival
